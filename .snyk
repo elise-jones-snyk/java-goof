@@ -2,4 +2,4 @@
 ---
 exclude:
     global:
-        - directory_name?/ ‎todolist-goof/todolist-web-struts/src/main/java/io/github/benas/todolist/web/action/user/**
+        - ‎todolist-goof/todolist-web-struts/src/main/java/io/github/benas/todolist/web/action/user/**
