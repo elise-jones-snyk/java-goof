@@ -2,4 +2,4 @@
 ---
 exclude:
     global:
-        - user/**
+        - ‎AccountAction.java
